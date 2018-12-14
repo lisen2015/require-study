@@ -1,0 +1,14 @@
+{
+  "name": "require",
+  "version": "1.0.0",
+  "description": "Require Study · 2018",
+  "main": "app.build.js",
+  "scripts": {
+    "package": "r.js -o app.build.js"
+  },
+  "keywords": [
+    "requirejs"
+  ],
+  "author": "Li.chen",
+  "license": "ISC"
+}
